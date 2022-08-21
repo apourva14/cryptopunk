@@ -1,3 +1,4 @@
+![alt text](https://github.com/apourva14/cryptopunk/blob/main/react-nft.png?raw=true)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
